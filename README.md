@@ -1,7 +1,4 @@
 # DOM-Magic
-
-
-# DOM Magic
 ## Intro
 
 You are now a wizard and you will no longer hard code html during your time at Hogwarts (or the duration of this assignment) <br>
