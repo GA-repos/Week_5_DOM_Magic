@@ -7,7 +7,8 @@ This homework is recommended to be done with a Harry Potter theme. But if you ar
 
 ## Setup - Get Ready to Make So Much Magic
 
-- Make a folder inside your `homework` folder for hw8 called `hogwarts`.
+- Fork and clone this repository
+- Inside the DOM-Magic folder make a folder called `hogwarts`.
 - `cd` into the `hogwarts` folder
 - `touch index.html`
 - `touch main.css`
